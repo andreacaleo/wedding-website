@@ -200,7 +200,7 @@ $(document).ready(function () {
             address: 'Parroquia de los Doce Apostles, Madrid',
 
             // Event Description
-            description: "We can't wait to see you! For any queries or issues, please contact Alicia Fresko at (phone number)."
+            description: "We can't wait to see you! For any queries or issues, contact info: wedding planner Alicia Fresko at airefreskoweddings@gmail.com, groom Andrea Caleo at andrea.caleo.pgk@gmail.com"
         }
     });
 
