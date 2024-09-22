@@ -15,6 +15,19 @@ git remote remove origin
 git remote add origin git@github.com:andreacaleo/wedding-website.git
 git push -u origin master
 
+Google App deployment:
+Deployment successfully updated.
+Version 1 on Sep 22, 2024, 7:15 PM
+Deployment ID
+AKfycbxtmkVcfLmyA2R8jBMVWIwtELDfKulYjWRkRp_LWwKM0hUUKmD4HZxL3LP_Rq_8K9ezrA
+Web app
+URL
+https://script.google.com/macros/s/AKfycbxtmkVcfLmyA2R8jBMVWIwtELDfKulYjWRkRp_LWwKM0hUUKmD4HZxL3LP_Rq_8K9ezrA/exec
+Deployment ID
+AKfycbxyl5z35_EL8nqR0BRBTvh3JGKHPcZw_8Lkyr8Adv7sEugb4GBw9iZfsDsYD5KYiIFHZA
+Web app
+URL
+https://script.google.com/macros/s/AKfycbxyl5z35_EL8nqR0BRBTvh3JGKHPcZw_8Lkyr8Adv7sEugb4GBw9iZfsDsYD5KYiIFHZA/exec
 
 GitHub output:
 Your identification has been saved in /c/Users/Pigkappa/.ssh/id_ed25519.
