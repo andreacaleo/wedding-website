@@ -3,6 +3,20 @@ cd "C:/Users/Pigkappa/Google Drive/SharedWithMaria/Boda/wedding-website"
 
 GitHub setup:
 ssh-keygen -t ed25519 -C "andrea.caleo.pgk@gmail.com"
+(output below)
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_ed25519
+Copy SSH key to clipboard
+clip < ~/.ssh/id_ed25519.pub
+
+Created a New Repository on GitHub:
+    Create a new repository under your account, no README nor .gitignore
+git remote remove origin
+git remote add origin git@github.com:andreacaleo/wedding-website.git
+git push -u origin master
+
+
+GitHub output:
 Your identification has been saved in /c/Users/Pigkappa/.ssh/id_ed25519.
 Your public key has been saved in /c/Users/Pigkappa/.ssh/id_ed25519.pub.
 The key fingerprint is:
