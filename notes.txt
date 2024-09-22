@@ -1,0 +1,21 @@
+Working folder:
+cd "C:/Users/Pigkappa/Google Drive/SharedWithMaria/Boda/wedding-website"
+
+GitHub setup:
+ssh-keygen -t ed25519 -C "andrea.caleo.pgk@gmail.com"
+Your identification has been saved in /c/Users/Pigkappa/.ssh/id_ed25519.
+Your public key has been saved in /c/Users/Pigkappa/.ssh/id_ed25519.pub.
+The key fingerprint is:
+SHA256:+3XcTKkGvNrHWM7ccBX+OUOWxYpkYIR6x31it5/+H54 andrea.caleo.pgk@gmail.com
+The key's randomart image is:
++--[ED25519 256]--+
+|         o+.   . |
+|        ..  o  .o|
+|       . . + ...+|
+|      . . + = +=o|
+|       .S. + +oo=|
+|         .  o+oO.|
+|        .  .Oo*o*|
+|         .oo.B.o+|
+|         .... .E=|
++----[SHA256]-----+
